@@ -1,23 +1,31 @@
-.grid-quarter {
+html { 
+  box-sizing: border-box; 
+} 
 
+* {
+    border: 2px solid black;
+}
+
+.grid-quarter {
+    width: 25%
 }
 
 .grid-third {
-    
+    width: 33%
 }
 
 .grid-half {
-    
+    width: 50%
 }
 
 .grid-two-third {
-    
+    width: 66%
 }
 
 .grid-three-quarter {
-    
+    width: 75%
 }
 
 .grid-full {
-    
+    width: 100%
 }
