@@ -6,35 +6,40 @@ html {
   box-sizing: inherit; 
 }
 
-.grid .grid-quarter {
-    border: 1px solid black;
-}
 
 .grid {
   clear: both;
+  border: 1px solid black;
 }
 
 .grid-quarter {
     float: left;
-    width: 25%
+    width: 25%;
+    border: 1px solid black;
 }
 
 .grid-third {
-    width: 33%
+    float: left;
+    width: 33.334%;
+    border: 1px solid black;
 }
 
 .grid-half {
-    width: 50%
+    float: left;
+    width: 50%;
+    border: 1px solid black;
 }
 
 .grid-two-third {
-    width: 66%
+    width: 66.667%;
 }
 
 .grid-three-quarter {
-    width: 75%
+    width: 75%;
+    border: 1px solid black;
 }
 
 .grid-full {
-    width: 100%
+    width: 100%;
+    border: 1px solid black;
 }
