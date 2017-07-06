@@ -6,7 +6,7 @@ html {
   box-sizing: inherit; 
 }
 
-* {
+.grid .grid-quarter {
     border: 1px solid black;
 }
 
