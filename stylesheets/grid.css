@@ -24,6 +24,15 @@ html {
     border: 1px solid black;
 }
 
+.image {
+    text-align: center;
+}
+
+.landscape {
+    width: 600px;
+    height: 263px;
+}
+
 .grid-half {
     float: left;
     width: 50%;
